@@ -27,7 +27,7 @@ const menuData: Menu[] = [
       },
       {
         id: 35,
-        title: "Customer centric Compliance",
+        title: "C2 Compliance",
         newTab: false,
      
       },

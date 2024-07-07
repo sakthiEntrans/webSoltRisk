@@ -15,7 +15,7 @@ import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
   title: "SoltRisk",
-  description: "This is Home for Solid Pro",
+  description: "Elevating Compliance,Minimizing Risk",
   // other metadata
 };
 
