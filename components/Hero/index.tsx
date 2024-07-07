@@ -55,7 +55,7 @@ const Hero = () => {
                   className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full dark:before:bg-titlebgdark"
                   initial="initial"
                   animate="animate"
-                  variants={backgroundAnimation}
+                  
                 >
                   Minimizing Risk
                 </motion.span>

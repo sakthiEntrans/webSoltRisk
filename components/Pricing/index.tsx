@@ -21,6 +21,7 @@ const Pricing = () => {
               headerInfo={{
                 title: `ABOUT US`,
                 subtitle: `G3 Cyber Space`,
+                description:''
               }}
             />
           </div>
